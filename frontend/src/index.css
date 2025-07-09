@@ -66,3 +66,27 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.player-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.85);
+  color: white;
+  padding: 15px 20px;
+  z-index: 1000; /* This makes sure it's on top of the map */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* Adds space between the text and the audio controls */
+  box-sizing: border-box; /* Ensures padding is included in the width */
+}
+
+.player-container h4 {
+  margin: 0;
+}
+
+.player-container audio {
+  height: 40px;
+}
