@@ -1,6 +1,9 @@
-Echo! - A Global Radio Map
-Echo! is an interactive web application that allows users to explore and listen to live internet radio stations from around the world on a beautiful, dark-themed map. 
-This project demonstrates a full-stack application built with a modern technology stack, combining a powerful Python/Django backend with a dynamic React frontend.
+# Echo! - Global Radio Map 🌍📻
+
+**Echo!** is an interactive web application that lets you explore and listen to live internet radio stations from around the world on a beautiful, dark-themed map.
+
+Built with a modern tech stack, it combines a robust **Django** backend with a dynamic **React** frontend to deliver a seamless audiovisual experience.
+
 
 Features
 Interactive World Map: Explore a visually appealing dark-themed map populated with hundreds of live radio stations.
