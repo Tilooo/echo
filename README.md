@@ -4,14 +4,16 @@
 
 Built with a modern tech stack, it combines a robust **Django** backend with a dynamic **React** frontend to deliver a seamless audiovisual experience.
 
+## ✨ Features
 
-Features
-Interactive World Map: Explore a visually appealing dark-themed map populated with hundreds of live radio stations.
-Live Radio Streaming: Click on any station marker to bring up a player and listen to its live stream directly in your browser.
-Dynamic Station Loading: The application automatically fetches and populates the map with the most popular and compatible radio stations from around the globe.
-Real-time Search & Filtering: Instantly find stations by searching for a name or country. The map dynamically updates to show only matching results.
-Custom-Styled UI: A clean, modern interface with custom map markers, a sleek audio player, and a loading indicator for a professional user experience.
-Responsive Design: The application is designed to be usable across different screen sizes.
+- **Interactive World Map**: Navigate a dark-mode 3D-style map populated with live radio stations.
+- **Live Streaming**: Instant playback of radio streams directly in the browser.
+- **Real-time Search**: Filter stations by name or country instantly.
+- **Dynamic Data**: Automatically fetches diverse stations using the Radio-Browser API.
+- **Modern UI**: Polished, dark-themed interface with custom markers and animations.
+
+
+
 
 Backend
 Framework: Python with Django & Django Rest Framework
