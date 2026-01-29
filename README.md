@@ -11,22 +11,19 @@ Built with a modern tech stack, it combines a robust **Django** backend with a d
 - **Real-time Search**: Filter stations by name or country instantly.
 - **Dynamic Data**: Automatically fetches diverse stations using the Radio-Browser API.
 - **Modern UI**: Polished, dark-themed interface with custom markers and animations.
+## 🛠️ Technology Stack
 
+### Backend
+- **Framework**: Python 3, Django 5, Django Rest Framework (DRF)
+- **Database**: SQLite (default for development)
+- **API**: RESTful architecture for station data
+- **Utilities**: Custom management commands for data seeding
 
-
-
-Backend
-Framework: Python with Django & Django Rest Framework
-Database: SQLite (for development)
-API: A RESTful API to serve radio station data in JSON format.
-Data Seeding: A custom Django management command to automatically fetch and populate the database.
-
-Frontend
-Framework: React.js (with Vite for a fast development experience)
-Mapping Library: Leaflet with React-Leaflet for rendering the interactive map.
-Styling: Tailwind CSS for a utility-first, modern, and clean design.
-HTTP Client: Axios for making requests to the backend API.
-State Management: React Hooks (useState, useEffect, useMemo) for managing application state.
+### Frontend
+- **Framework**: React 19, Vite
+- **Styling**: Tailwind CSS v4
+- **Maps**: Leaflet, React-Leaflet
+- **HTTP Client**: Axios
 
 Getting Started
 To run this project on your local machine, follow these steps.
