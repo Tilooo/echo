@@ -25,10 +25,10 @@ Built with a modern tech stack, it combines a robust **Django** backend with a d
 - **Maps**: Leaflet, React-Leaflet
 - **HTTP Client**: Axios
 
-Getting Started
-To run this project on your local machine, follow these steps.
-Prerequisites
-Python (3.8 or higher)
-Node.js and npm
-Git
+## 🚀 Getting Started
+
+### Prerequisites
+- **Python** (3.8+)
+- **Node.js** (16+) & **npm**
+- **Git**
 
