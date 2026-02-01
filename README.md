@@ -32,3 +32,6 @@ Built with a modern tech stack, it combines a robust **Django** backend with a d
 - **Node.js** (16+) & **npm**
 - **Git**
 
+---
+
+*Created with ❤️ for music lovers.*
