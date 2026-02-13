@@ -3,6 +3,8 @@
 **Echo!** is an interactive web application that lets you explore and listen to live internet radio stations from around the world on a beautiful, dark-themed map.
 
 Built with a modern tech stack, it combines a robust **Django** backend with a dynamic **React** frontend to deliver a seamless audiovisual experience.
+<img width="1366" height="668" alt="Screenshot (9418)" src="https://github.com/user-attachments/assets/0a2f0aaf-ea04-4699-be67-6d38e1f4c044" />
+
 
 ## ✨ Features
 
